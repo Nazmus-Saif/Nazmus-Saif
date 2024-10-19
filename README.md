@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://www.linkedin.com/in/nzsaif"><img width="65%" alt="Hello, I'm Saif" src="./assets/im-saif.png" /></a>
+  <a href="https://www.linkedin.com/in/nzsaif"><img width="65%" alt="Hello, I'm Saif" src="./assets/im-saif.jpg" /></a>
 </h1>
 
 <h3 align="center">Passionate UI focused full-stack developer with expertise in front-end technologies like HTML, CSS, React.js, and Javascript and back-end technologies like Express.js, Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
