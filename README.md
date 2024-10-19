@@ -181,7 +181,10 @@
 
 <table>
   <tr>
-    
+    <td align="center" width="96">
+      <br>
+      <span style="font-size: 24px;">This content will be added soon!</span>
+    </td>
   </tr>
 </table>
 
