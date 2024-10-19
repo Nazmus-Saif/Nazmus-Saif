@@ -79,6 +79,8 @@
       </a>
       <br>ReactJS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="NodeJS" />
@@ -97,8 +99,6 @@
       </a>
       <br>MongoDB
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#" >
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Angular" />
