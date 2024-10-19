@@ -49,6 +49,12 @@
       </a>
       <br>CSS
     </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Python
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c" />
@@ -98,12 +104,6 @@
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="NodeJS" />
       </a>
       <br>MongoDB
-    </td>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#">
