@@ -177,12 +177,6 @@
 
 <hr>
 
-<h2 align="center" id="nzsaif-tech">🔥 Activities 🔥</h2>
-
-<div class="activity-container">
-  <span style="font-size: 30px; font-weight: bold">This content will be added soon!</span>
-</div>
-
 <h4 align="center">
   <code><a href="" target="_blank">As an Engineer You Don't Need to Know Everything You Just Need to Know Where to Find it When You Need it.</a></code>
 </h4>
