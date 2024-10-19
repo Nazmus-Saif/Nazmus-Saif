@@ -185,6 +185,6 @@
   </tr>
 </table>
 
-<h4 align="right">
+<h4 align="center">
   <code><a href="" target="_blank">As an Engineer You Don't Need to Know Everything You Just Need to Know Where to Find it When You Need it.</a></code>
 </h4>
