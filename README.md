@@ -181,9 +181,9 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100%">
       <br>
-      <span style="font-size: 24px;">This content will be added soon!</span>
+      <span style="font-size: 30px; font-weight: bold">This content will be added soon!</span>
     </td>
   </tr>
 </table>
