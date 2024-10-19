@@ -39,6 +39,12 @@
   <tr>
     <td align="center" width="96">
       <a href="#">
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="HTML" />
+      </a>
+      <br>AI
+    </td>
+    <td align="center" width="96">
+      <a href="#">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
@@ -73,12 +79,6 @@
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="Swift" />
-      </a>
-      <br>PHP
-    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="NodeJS" />
@@ -87,6 +87,12 @@
     </td>
   </tr>
   <tr>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="Swift" />
+      </a>
+      <br>PHP
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="NodeJS" />
