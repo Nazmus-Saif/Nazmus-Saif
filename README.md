@@ -43,6 +43,12 @@
       </a>
       <br>AI
     </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Python
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -54,12 +60,6 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
-    </td>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#">
