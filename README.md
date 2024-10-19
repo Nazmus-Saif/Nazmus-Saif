@@ -23,7 +23,7 @@
 - 📫 &nbsp; Reach me out: **nzsaif10@gmail.com**
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1w7GEQhTlIcvIfzaH0Iv2PxDdk5Q9U1ug/view?usp=sharing)
 
-### ☺️ My Absolute Favorites:
+### ☺️ Favorite Things:
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
