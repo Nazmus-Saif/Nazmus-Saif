@@ -51,18 +51,6 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c" />
       </a>
       <br>C
@@ -72,6 +60,18 @@
         <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="c++" />
       </a>
       <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#">
