@@ -182,4 +182,3 @@
 <h4 align="right">
   <code><a href="" target="_blank">As an Engineer You Don't Need to Know Everything You Just Need to Know Where to Find it When You Need it.</a></code>
 </h4>
->>>>>>> 723c826 (Updated)
