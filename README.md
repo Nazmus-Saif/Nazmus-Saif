@@ -31,7 +31,7 @@
 
 <hr>
 
-<h2 align="center" id="smhemel-tech">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center" id="nzsaif-tech">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 > Tools and technologies that I have worked with.
 
@@ -177,7 +177,7 @@
 
 <hr>
 
-<h2 align="center" id="smhemel-tech">🔥 Activities 🔥</h2>
+<h2 align="center" id="nzsaif-tech">🔥 Activities 🔥</h2>
 
 <table>
   <tr>
