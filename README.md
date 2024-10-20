@@ -182,7 +182,7 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="images/speedtest.png alt="nzsaif" />
+      <img align="center" src="images/speedtest.png alt="nzsaif"/>
     </td>
   </tr>
 </table>
