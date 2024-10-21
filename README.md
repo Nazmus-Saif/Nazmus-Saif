@@ -6,7 +6,7 @@
 
 <h4 display="flex" align="center">
   <code><a href="https://www.linkedin.com/in/nzsaif/" title="LinkedIn Profile"><img style="background-color: transparent !important;" width="22" src="images/linkedin.svg"> LinkedIn</a>
-  /code>
+  </code>
   <code><a href="https://www.hackerrank.com/nazmussaif_cse" title="HackerRank Profile"><img style="background-color: transparent !important;" width="22" src="images/hackerrank.svg">
   HackerRank</a></code>
 </h4>
