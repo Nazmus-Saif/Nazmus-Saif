@@ -147,7 +147,7 @@
 > Tools and technologies that I am want to learn.
 
 <table align="center">
-  <tr>
+  <tr align="center">
   <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="AWS" />
