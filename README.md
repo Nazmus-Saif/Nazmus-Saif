@@ -87,12 +87,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="Swift" />
-      </a>
-      <br>PHP
-    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="NodeJS" />
@@ -116,6 +110,12 @@
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="NodeJS" />
       </a>
       <br>MySQL
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="Swift" />
+      </a>
+      <br>PHP
     </td>
     <td align="center" width="96">
       <a href="#">
