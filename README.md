@@ -81,6 +81,12 @@
     </td>
     <td align="center" width="96">
       <a href="#">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="js" />
+      </a>
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+      <a href="#">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="NodeJS" />
       </a>
       <br>ReactJS
@@ -140,6 +146,12 @@
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Github" />
       </a>
       <br>Github
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Github" />
+      </a>
+      <br>Selenium
     </td>
     <td align="center" width="96"> 
       <a href="#" >
