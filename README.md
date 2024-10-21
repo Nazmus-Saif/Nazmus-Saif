@@ -4,11 +4,10 @@
 
 <h3 align="center">Passionate UI focused full-stack developer with expertise in front-end technologies like HTML, CSS, React.js, and Javascript and back-end technologies like Express.js, Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 
-<h4 align="center">
-  <code><a href="https://www.linkedin.com/in/nzsaif/" title="LinkedIn Profile"><img style="background-color: transparent !important;" width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+<h4 display="flex" align="center">
+  <code><a href="https://www.linkedin.com/in/nzsaif/" title="LinkedIn Profile"><img style="background-color: transparent !important;" width="22" src="images/linkedin.svg">LinkedIn</a></code>
 
-<code><a href="https://www.hackerrank.com/nazmussaif_cse" title="HackerRank Profile"><img style="background-color: transparent !important;" width="22" src="images/hackerrank.svg"> HackerRank</a></code>
-
+<code><a href="https://www.hackerrank.com/nazmussaif_cse" title="HackerRank Profile"><img style="background-color: transparent !important;" width="22" src="images/hackerrank.svg">HackerRank</a></code>
 </h4>
 
 <hr>
