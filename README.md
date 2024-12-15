@@ -6,7 +6,10 @@
 
 <h4 align="center">
   <code><a href="https://www.linkedin.com/in/nzsaif/" title="LinkedIn Profile"><img style="background-color: transparent !important;" width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-<code><a href="https://www.hackerrank.com/nazmussaif_cse" title="HackerRank Profile"><img style="background-color: transparent !important;" width="22" src="images/hackerrank.svg"> HackerRank</a></code>
+  <code><a href="https://www.hackerrank.com/nazmussaif_cse" title="HackerRank Profile"><img style="background-color: transparent !important;" width="22" src="images/hackerrank.svg"> HackerRank</a></code>
+  <code><a href="https://codeforces.com/profile/NSaif" title="Codeforces Profile"><img style="background-color: transparent !important;" width="22" src="images/codeforces.svg"> Codeforces</a></code>
+  <code><a href="https://leetcode.com/u/Nazmus_Saif/" title="LeetCode Profile"><img style="background-color: transparent !important;" width="22" src="images/leetcode.svg"> LeetCode</a></code>
+  <code><a href="https://vjudge.net/user/NSaif" title="VJudge Profile"><img style="background-color: transparent !important;" width="22" src="images/vjudge.svg"> VJudge</a></code>
 </h4>
 
 <hr>
