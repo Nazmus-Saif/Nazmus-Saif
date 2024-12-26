@@ -52,51 +52,45 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="c++" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="c++" />
       </a>
-      <br>C++
+      <br>Tensorflow
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=keras" width="48" height="48" alt="HTML" />
       </a>
-      <br>HTML
+      <br>Keras
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       </a>
-      <br>CSS
+      <br>Scikit-Learn
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
       </a>
-      <br>JavaScript
+      <br>Pandas
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="js" />
       </a>
-      <br>jQuery
+      <br>Numpy
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="NodeJS" />
       </a>
-      <br>ReactJS
+      <br>Matplotlib
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="NodeJS" />
       </a>
-      <br>ExpressJS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
+      <br>Seaborn
     </td>
   </tr>
   <tr>
