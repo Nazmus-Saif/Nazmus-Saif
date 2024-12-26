@@ -32,7 +32,7 @@
 
 <hr>
 
-<h2 align="center" id="nzsaif-tech">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center" id="nzsaif-tech">🔥 Languages, Frameworks, Libraries, & Tools 🔥</h2>
 
 > Tools and technologies that I have worked with.
 
