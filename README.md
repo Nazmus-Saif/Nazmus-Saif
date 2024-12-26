@@ -102,6 +102,68 @@
   <tr>
     <td align="center" width="96">
       <a href="#">
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="HTML" />
+      </a>
+      <br>AI
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="c++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="js" />
+      </a>
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>ExpressJS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="NodeJS" />
       </a>
       <br>MongoDB
