@@ -124,6 +124,12 @@
       </a>
       <br>PHP
     </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Swift" />
+      </a>
+      <br>Firebase
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
