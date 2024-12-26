@@ -22,7 +22,7 @@
 - 🌱 &nbsp; I’m currently learning **Flutter**
 - 💬 &nbsp; My [Portfolio](https://portfolio-frontend-seven-mu.vercel.app/)!.
 - 📫 &nbsp; Reach me out: **nzsaif10@gmail.com**
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/16SQ4QZLbuXhrzTzWAgnmd9nYAhXKHQjl/view?usp=sharing)
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1j7wfWmP93KQvPqicbwph9niQCjWFgbmJ/view?usp=drive_link)
 
 ### ☺️ Favorite Things:
 
