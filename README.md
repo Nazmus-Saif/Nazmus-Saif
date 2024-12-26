@@ -64,25 +64,25 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Scikit_Learn_logo.svg" width="48" height="48" alt="Scikit-Learn" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="48" height="48" alt="Scikit-Learn" />
       </a>
       <br>Scikit-Learn
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_logo.svg" width="48" height="48" alt="Pandas" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s" width="48" height="48" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/NumPy_logo_2020.svg" width="48" height="48" alt="Numpy" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" width="48" height="48" alt="Numpy" />
       </a>
       <br>Numpy
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Matplotlib_logo.svg" width="48" height="48" alt="Matplotlib" />
+        <img src="https://media.licdn.com/dms/image/v2/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=wX-LJQHtaxGcj6u08PgQ2t7l-GL29RoQcE2HknWph-c" width="48" height="48" alt="Matplotlib" />
       </a>
       <br>Matplotlib
     </td>
