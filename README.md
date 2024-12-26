@@ -102,18 +102,6 @@
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="HTML" />
-      </a>
-      <br>AI
-    </td>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="c++" />
       </a>
       <br>C++
@@ -160,14 +148,14 @@
       </a>
       <br>NodeJS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="NodeJS" />
       </a>
       <br>MongoDB
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="NodeJS" />
