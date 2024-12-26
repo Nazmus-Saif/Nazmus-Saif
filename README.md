@@ -88,7 +88,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Seaborn_logo.svg" width="48" height="48" alt="Seaborn" />
+        <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="48" height="48" alt="Seaborn" />
       </a>
       <br>Seaborn
     </td>
