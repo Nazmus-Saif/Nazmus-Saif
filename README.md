@@ -20,7 +20,7 @@
 
 - 🔭 &nbsp; <em>Software Engineer at <a href="">**Home**</a></em>
 - 🌱 &nbsp; I’m currently learning **Flutter**
-- 💬 &nbsp; My [Portfolio](https:/www.nazmussaif.info/)!.
+- 💬 &nbsp; My [Portfolio](https://portfolio-frontend-seven-mu.vercel.app/)!.
 - 📫 &nbsp; Reach me out: **nzsaif10@gmail.com**
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/16SQ4QZLbuXhrzTzWAgnmd9nYAhXKHQjl/view?usp=sharing)
 
