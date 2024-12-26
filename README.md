@@ -70,19 +70,19 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s" width="48" height="48" alt="Pandas" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s" width="48" height="48" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" width="48" height="48" alt="Numpy" />
+        <img src="https://user-images.githubusercontent.com/50221806/86498208-af4bfe00-bd39-11ea-88fa-c747ae0ddd85.png" width="48" height="48" alt="Numpy" />
       </a>
       <br>Numpy
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://media.licdn.com/dms/image/v2/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=wX-LJQHtaxGcj6u08PgQ2t7l-GL29RoQcE2HknWph-c" width="48" height="48" alt="Matplotlib" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" width="48" height="48" alt="Matplotlib" />
       </a>
       <br>Matplotlib
     </td>
