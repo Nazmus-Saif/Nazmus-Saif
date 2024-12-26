@@ -57,38 +57,38 @@
       <br>Tensorflow
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="[https://skillicons.dev/icons?i=keras](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AKeras_logo.svg&psig=AOvVaw1KOzNY4lKMbT4S36tYZaZq&ust=1735307275538000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi3_LLJxYoDFQAAAAAdAAAAABAE)" width="48" height="48" alt="HTML" />
-      </a>
-      <br>Keras
+    <a href="#">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Keras_logo.svg" width="48" height="48" alt="Keras" />
+    </a>
+    <br>Keras
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="[https://skillicons.dev/icons?i=css](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AScikit_learn_logo_small.svg&psig=AOvVaw1J2mvDsTyYF54tCvV9Y-u4&ust=1735307244576000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjRraXJxYoDFQAAAAAdAAAAABAE)" width="48" height="48" alt="CSS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Scikit_Learn_logo.svg" width="48" height="48" alt="Scikit-Learn" />
       </a>
       <br>Scikit-Learn
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APandas_logo.svg&psig=AOvVaw2Vl2Q6Fx9Zb_huwasMDFV8&ust=1735307324749000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiT3cnJxYoDFQAAAAAdAAAAABAE" width="48" height="48" alt="js" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_logo.svg" width="48" height="48" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="[https://skillicons.dev/icons?i=jquery](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ANumPy_logo_2020.svg&psig=AOvVaw2-Yg2ZzA8DSL6YONq3MusR&ust=1735307345171000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjprdPJxYoDFQAAAAAdAAAAABAE)" width="48" height="48" alt="js" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/NumPy_logo_2020.svg" width="48" height="48" alt="Numpy" />
       </a>
       <br>Numpy
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMatplotlib_icon.svg&psig=AOvVaw3W_4tUNTEj-bmMwyGgYCQR&ust=1735307366314000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOilmN7JxYoDFQAAAAAdAAAAABAE" width="48" height="48" alt="NodeJS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Matplotlib_logo.svg" width="48" height="48" alt="Matplotlib" />
       </a>
       <br>Matplotlib
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="[https://skillicons.dev/icons?i=express](https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fseaborn-1&psig=AOvVaw3gaNfP9Zd2ZZHULoJvPlDp&ust=1735307387056000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLj5kOfJxYoDFQAAAAAdAAAAABAE)" width="48" height="48" alt="NodeJS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Seaborn_logo.svg" width="48" height="48" alt="Seaborn" />
       </a>
       <br>Seaborn
     </td>
