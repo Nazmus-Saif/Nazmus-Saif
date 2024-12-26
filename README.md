@@ -76,7 +76,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/50221806/86498208-af4bfe00-bd39-11ea-88fa-c747ae0ddd85.png" width="48" height="48" alt="Numpy" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s" width="48" height="48" alt="Numpy" />
       </a>
       <br>Numpy
     </td>
