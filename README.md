@@ -58,7 +58,7 @@
     </td>
     <td align="center" width="96">
     <a href="#">
-      <img src="[https://upload.wikimedia.org/wikipedia/commons/6/6b/Keras_logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3G7aNWlBFrxvcqPJlFkdUqQ3mSxFokba9g&s)" width="48" height="48" alt="Keras" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3G7aNWlBFrxvcqPJlFkdUqQ3mSxFokba9g&s" width="48" height="48" alt="Keras" />
     </a>
     <br>Keras
     </td>
