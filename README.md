@@ -66,7 +66,7 @@
       <a href="#">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNsNsCUnCK9dU4ADTVmRc0fs0KpHJwWFNJjQ&s" width="48" height="48" alt="Scikit-Learn" />
       </a>
-      <br>Scikit-Learn
+      <br>SK-Learn
     </td>
     <td align="center" width="96">
       <a href="#">
