@@ -64,7 +64,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="48" height="48" alt="Scikit-Learn" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNsNsCUnCK9dU4ADTVmRc0fs0KpHJwWFNJjQ&s" width="48" height="48" alt="Scikit-Learn" />
       </a>
       <br>Scikit-Learn
     </td>
