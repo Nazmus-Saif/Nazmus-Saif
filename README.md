@@ -19,7 +19,7 @@
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; <em>Software Engineer at <a href="">**Home**</a></em>
-- 🌱 &nbsp; I’m currently learning **Flutter**
+- 🌱 &nbsp; I’m currently learning **CP**
 - 💬 &nbsp; My [Portfolio](https://nazmussaif.vercel.app/)!.
 - 📫 &nbsp; Reach me out: **nzsaif10@gmail.com**
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1x7qi3u1SGGPB0Gth1t0zQRie8XoeXYFM/view?usp=drive_link)
