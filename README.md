@@ -213,9 +213,9 @@
   <tr>
   <td align="center" width="96">
       <a href="#">
-        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="AWS" />
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="AWS" />
       </a>
-      <br>C#
+      <br>Go
     </td>
     <td align="center" width="96">
       <a href="#">
