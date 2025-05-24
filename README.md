@@ -120,12 +120,6 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="js" />
-      </a>
-      <br>jQuery
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="NodeJS" />
       </a>
       <br>ReactJS
