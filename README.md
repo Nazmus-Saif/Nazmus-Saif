@@ -164,9 +164,9 @@
     </td>
     <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Swift" />
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="Swift" />
       </a>
-      <br>Firebase
+      <br>FastAPI
     </td>
     <td align="center" width="96">
       <a href="#">
