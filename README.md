@@ -56,6 +56,12 @@
       </a>
       <br>FastAPI
     </td>
+      <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="c++" />
