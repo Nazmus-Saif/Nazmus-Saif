@@ -101,6 +101,8 @@
       </a>
       <br>Tensorflow
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
     <a href="#">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3G7aNWlBFrxvcqPJlFkdUqQ3mSxFokba9g&s" width="48" height="48" alt="Keras" />
@@ -125,8 +127,6 @@
       </a>
       <br>Numpy
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" width="48" height="48" alt="Matplotlib" />
