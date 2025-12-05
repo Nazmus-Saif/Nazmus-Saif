@@ -69,6 +69,26 @@
       </a>
       <br>LlamaIndex
     </td>
+    </td>
+      <td align="center" width="96">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/134601687?s=200&v=4" width="48" height="48" alt="Langfuse" />
+      </a>
+      <br>Langfuse
+    </td>
+    </td>
+      <td align="center" width="96">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/319983?s=48&v=4" width="48" height="48" alt="Celery" />
+      </a>
+      <br>Celery
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/1529926?s=48&v=4" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="c++" />
