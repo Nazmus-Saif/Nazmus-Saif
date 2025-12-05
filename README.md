@@ -50,6 +50,12 @@
       </a>
       <br>Python
     </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="Swift" />
+      </a>
+      <br>FastAPI
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="c++" />
@@ -86,14 +92,14 @@
       </a>
       <br>Matplotlib
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="48" height="48" alt="Seaborn" />
       </a>
       <br>Seaborn
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="c++" />
@@ -161,12 +167,6 @@
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="Swift" />
       </a>
       <br>PHP
-    </td>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="Swift" />
-      </a>
-      <br>FastAPI
     </td>
     <td align="center" width="96">
       <a href="#">
