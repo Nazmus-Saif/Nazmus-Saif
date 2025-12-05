@@ -139,14 +139,14 @@
       </a>
       <br>Seaborn
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="c++" />
       </a>
       <br>C++
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
