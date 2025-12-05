@@ -142,14 +142,14 @@
       </a>
       <br>MongoDB
     </td>
-      <td align="center" width="96">
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="js" />
       </a>
       <br>PostgreSQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="NodeJS" />
