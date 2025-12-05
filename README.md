@@ -89,14 +89,14 @@
       </a>
       <br>Celery
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/1529926?s=48&v=4" width="48" height="48" alt="Redis" />
       </a>
       <br>Redis
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="c++" />
@@ -145,14 +145,14 @@
       </a>
       <br>C++
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
