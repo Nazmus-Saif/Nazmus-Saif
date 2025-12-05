@@ -95,14 +95,14 @@
       </a>
       <br>Redis
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="c++" />
       </a>
       <br>Tensorflow
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
     <a href="#">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3G7aNWlBFrxvcqPJlFkdUqQ3mSxFokba9g&s" width="48" height="48" alt="Keras" />
