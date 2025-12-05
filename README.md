@@ -62,6 +62,13 @@
       </a>
       <br>Django
     </td>
+    </td>
+      <td align="center" width="96">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="48" height="48" alt="LlamaIndex" />
+      </a>
+      <br>LlamaIndex
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="c++" />
