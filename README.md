@@ -170,12 +170,6 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
