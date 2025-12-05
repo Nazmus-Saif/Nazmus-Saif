@@ -56,7 +56,13 @@
       </a>
       <br>FastAPI
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/1200px-WebSocket_colored_logo.svg.png" width="48" height="48" alt="WebSocket" />
+      </a>
+      <br>WebSocket
+    </td>
+    <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
       </a>
