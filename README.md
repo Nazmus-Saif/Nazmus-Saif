@@ -21,7 +21,7 @@
 - 🔭 &nbsp; <em>Software Engineer I at <a href="https://brainstation-23.com/?1">**Brain Station 23**</a></em>
 - 🌱 &nbsp; I’m currently building a **Multi Agent System**
 - 💬 &nbsp; My [Portfolio](https://nazmussaif.vercel.app/)!.
-- 📫 &nbsp; Reach me out: **nzsaif10@gmail.com**
+- 📫 &nbsp; Reach me out: **nazmus.saif@brainstation-23.com**
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1x7qi3u1SGGPB0Gth1t0zQRie8XoeXYFM/view?usp=drive_link)
 
 ### ☺️ Favorite Things:
