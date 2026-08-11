@@ -2,7 +2,7 @@
   <a href="https://nazmussaif.vercel.app"><img width="65%" alt="Hello, I'm Saif" src="assets/im-saif.jpg" /></a>
 </h1>
 
-<h3 align="center">UI-focused full-stack developer skilled in React.js, Node.js, Express.js, Python, FastAPI, MongoDB, and PostgreSQL. Enthusiastic about ML, AI, and building AI agents with LLMs. Passionate about learning and tackling new challenges.</h3>
+<h3 align="center">UI-focused full-stack developer skilled in React.js, Node.js, Express.js, Python, FastAPI, MongoDB, and PostgreSQL. Enthusiastic about ML, AI, and building Agentic AI with LLMs. Passionate about learning and tackling new challenges.</h3>
 
 <h4 align="center">
   <code><a href="https://www.linkedin.com/in/nzsaif/" title="LinkedIn Profile"><img style="background-color: transparent !important;" width="22" src="images/linkedin.svg"> LinkedIn</a></code>
